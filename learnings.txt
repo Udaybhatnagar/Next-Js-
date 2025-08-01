@@ -1,0 +1,3 @@
+jab bhi use state  or effect use krenge use client likhna padega top pr apne component ko clinet component bnana pdega phle then hi use kr sakte hain..
+use async await concept for geeting solution of above problem
+
