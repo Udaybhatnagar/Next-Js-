@@ -16,3 +16,6 @@ Day 03:-
 we are implementning file based routing
 jab kisi folder ko ignore krna hai route ke liye to () braket ka use krte hain, isko route group khete hain..
 
+Dynamic Routes ko [] mai rakhge hai like blog website hai jisme blog/1 ya blog/2 honge to unko bar bar folders mai bnanae ki jgh [postId] mai bna sakte hai..
+jab bhut sare subroute hote hain to [.....BlogID] like blog/1/2/3/4/4 it is called catch all segment..
+catch all [[..blogs]] padhna hai isko..
