@@ -38,5 +38,16 @@ static site generation(SSG):-
 it will generated once and not changes
 agar hamare code base mai koi asa component hai jo sabke liye same(static) hi rhne wala hai to usko html mai krdo (static bna do)
 
+slides link:-https://petal-estimate-4e9.notion.site/NextJS-Part-3-1637dfd107358090800ff3aaed7a5b3c
+
+
+Hydration:-
+kuch component/pages ase hai jo server par render honge but clint pr kabhi rerender nahi honge..
+agr hm next js mai use client likhte hai tab bhi jo server se hi render hokar ata hai
+server component mai hme sirf html milti hai.
+client component mai hme hmtl ke sath js file bhi milti hai..
+clinet side component server side rendered and hydrated to frontend
+hydration means intractive features ko clinet side active krna..
+like onlcick handler etc..
 
 
