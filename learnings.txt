@@ -22,4 +22,21 @@ catch all [[..blogs]] padhna hai isko.. ya fir /blog ke liye ek seprate page.tsx
 
 
 Day04:-
+learn about 
+server side rendering (SSR):-
+jo bhi logic hai vo server se run hokar hi aayega
+initial respnse hi server se render hokar aata hai..
+
+
+
+cliend side rendering (CSR):-rendering jo ho rhi hai vo client ke side ho rhi hai..like react 
+agar koi code beowser pr run ho rha hai vo..kyuki react ka code empty html bhejta hai jo run hoti hai browser pr ..
+react mai everything is CSR
+Next js mai bhi ho skta hai ye..
+
+static site generation(SSG):-
+it will generated once and not changes
+agar hamare code base mai koi asa component hai jo sabke liye same(static) hi rhne wala hai to usko html mai krdo (static bna do)
+
+
 
