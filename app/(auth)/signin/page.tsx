@@ -6,7 +6,7 @@ export default function Signin() {
                     <div className="px-10">
                         <div className="text-3xl font-extrabold">
                             Sign in
-                        </div> udaydklfnadkflnak.fhndfkjdsaf
+                        </div> 
                     </div>
                     <div className="pt-2">
                         <LabelledInput label="Username" placeholder="harkirat@gmail.com" />
